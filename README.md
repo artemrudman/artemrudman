@@ -6,7 +6,7 @@ My passion for continuous learning keeps me updated on industry trends, ensuring
 Check my Projects 
 - [Webservers_Health](https://github.com/artemrudman/Webservers_Project/)
 - [Darkstore_Market](https://github.com/artemrudman/Darkstore_market)
-- [Excel_Project_Liverpool]().
+- [Excel_Project_Liverpool](https://github.com/artemrudman/Excel_Project_Liverpool).
 - [Python_Analisys]().
   
 ## 💻 Technical skills
