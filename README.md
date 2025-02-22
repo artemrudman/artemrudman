@@ -10,11 +10,11 @@ Check my Projects
 - [Python_Analisys]().
   
 ## 💻 Technical skills
-Languages: SQL, Python, JS, TS
-Databases: Microsoft SQL Server, MySQL, PostgreSQL
-Spreadsheets: Excel, Google Sheets
-Data Visualization: Power BI
-Data Wrangling: data cleaning, data transformation, data integration
+- Languages: SQL, Python, JS, TS
+- Databases: Microsoft SQL Server, MySQL, PostgreSQL
+- Spreadsheets: Excel, Google Sheets
+- Data Visualization: Power BI
+- Data Wrangling: data cleaning, data transformation, data integration
 
 ## 🎓 Education
 Bachelor's degree in Oil and Gas engineering, Siberian Federal University
