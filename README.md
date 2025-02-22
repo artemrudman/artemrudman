@@ -1,16 +1,25 @@
-## Hi there 👋
+## Welcome to my GitHub!  
+I,m an Engineer with experience in Development and Data Analisys. I'm a detail-oriented professional, committed to learning and using new technologies to create innovative solutions. 
+My passion for continuous learning keeps me updated on industry trends, ensuring I deliver excellent results.
 
-<!--
-**artemrudman/artemrudman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Portfolio
+Check my Projects 
+- [Webservers_Health](https://github.com/artemrudman/Webservers_Project/)
+- [Darkstore_Market](https://github.com/artemrudman/Darkstore_market)
+- [Excel_Project_Liverpool]().
+- [Python_Analisys]().
+  
+## 💻 Technical skills
+Languages: SQL, Python, JS, TS
+Databases: Microsoft SQL Server, MySQL, PostgreSQL
+Spreadsheets: Excel, Google Sheets
+Data Visualization: Power BI
+Data Wrangling: data cleaning, data transformation, data integration
 
-Here are some ideas to get you started:
+## 🎓 Education
+Bachelor's degree in Oil and Gas engineering, Siberian Federal University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📧 Let's connect!
+[My LinkedIn](www.linkedin.com/in/artem-rudman/)🌍🚀
+
+Take a look at my projects here on GitHub. If you have any questions or would like to collaborate, please feel free to contact me!
