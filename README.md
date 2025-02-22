@@ -20,6 +20,6 @@ Check my Projects
 Bachelor's degree in Oil and Gas engineering, Siberian Federal University
 
 ## 📧 Let's connect!
-[My LinkedIn]([www.linkedin.com/in/artem-rudman/](https://www.linkedin.com/in/artem-rudman/))🌍🚀
+[My LinkedIn](https://www.linkedin.com/in/artem-rudman/)🌍🚀
 
 Take a look at my projects here on GitHub. If you have any questions or would like to collaborate, please feel free to contact me!
