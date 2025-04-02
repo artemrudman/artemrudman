@@ -4,11 +4,11 @@ My passion for continuous learning keeps me updated on industry trends, ensuring
 
 ## 📊 Portfolio
 
-| Feature  | Example |
-|----------|---------|
 | ![Alt Text](https://via.placeholder.com/100) | [GitHub](https://github.com) |
 | [Google](https://google.com) | ![Sample Image](https://via.placeholder.com/100) |
-Check my Projects 
+
+
+
 - [Excel EPL Analysis Project](https://github.com/artemrudman/Excel_Project_Liverpool)
 - [Web Servers Monitoring System](https://github.com/artemrudman/Webservers_Project/)
 - [Darkstore Market](https://github.com/artemrudman/Darkstore_market)
