@@ -4,6 +4,8 @@ My passion for continuous learning keeps me updated on industry trends, ensuring
 
 ## 📊 Portfolio
 
+<img src="https://github.com/artemrudman/Excel_Project_Liverpool/tree/main/screenshots/DashBoard.gif" width="400">
+
 | ![Alt Text](https://via.placeholder.com/100) | [GitHub](https://github.com) |
 | [Google](https://google.com) | ![Sample Image](https://via.placeholder.com/100) |
 
