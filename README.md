@@ -6,7 +6,7 @@ My passion for continuous learning keeps me updated on industry trends, ensuring
 
 <img src="screenshots/DashBoard.gif" width="600">
 
-| ![Alt Text](https://via.placeholder.com/100) | [GitHub](https://github.com) |
+| ![Excel EPL Analysis Project](https://github.com/artemrudman/Excel_Project_Liverpool) <img src="screenshots/DashBoard.gif" width="600"> | [GitHub](https://github.com) |
 | [Google](https://google.com) | ![Sample Image](https://via.placeholder.com/100) |
 
 
