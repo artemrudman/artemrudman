@@ -1,5 +1,5 @@
 ## Welcome to my GitHub!  
-I,m an Engineer with experience in Development and Data Analisys. I'm a detail-oriented professional, committed to learning and using new technologies to create innovative solutions. 
+I,m an Engineer with experience in Data Analisys and Development. I'm a detail-oriented professional, committed to learning and using new technologies to create innovative solutions. 
 My passion for continuous learning keeps me updated on industry trends, ensuring I deliver excellent results.
 
 ## 📊 Portfolio
