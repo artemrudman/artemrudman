@@ -6,7 +6,7 @@ My passion for continuous learning keeps me updated on industry trends, ensuring
 
 |    |   |
 |----------|---------|
-| <p align="center">![Excel EPL Analysis Project](https://github.com/artemrudman/Excel_Project_Liverpool) <br> <img src="screenshots/DashBoard.gif" width="400"></p>| ![Excel EPL Analysis Project](https://github.com/artemrudman/Excel_Project_Liverpool) <br> <img src="screenshots/DashBoard.gif" width="400"> |
+| <p align="center">[Excel EPL Analysis Project](https://github.com/artemrudman/Excel_Project_Liverpool) <br> <img src="screenshots/DashBoard.gif" width="400"></p>| <p align="center">[Web Servers Monitoring System]([https://github.com/artemrudman/Excel_Project_Liverpool](https://github.com/artemrudman/Webservers_Project/)) <br> <img src="screenshots/DashBoard.gif" width="400"> </p> |
 
 
 
