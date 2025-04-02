@@ -6,9 +6,7 @@ My passion for continuous learning keeps me updated on industry trends, ensuring
 
 |    |    |
 |----------|---------|
-| <p align="center">[Excel EPL Analysis Project](https://github.com/artemrudman/Excel_Project_Liverpool) <br> <img src="screenshots/DashBoard.gif" width="400"></p>| 
-<p align="center">[Web Servers Monitoring System](https://github.com/artemrudman/Webservers_Project/) <br> <img src="screenshots/DashBoard.gif" width="400"> </p> |
-
+| <p align="center">[Excel EPL Analysis Project](https://github.com/artemrudman/Excel_Project_Liverpool) <br> <img src="screenshots/DashBoard.gif" width="400"></p>| <p align="center">[Web Servers Monitoring System](https://github.com/artemrudman/Webservers_Project/) <br> <img src="screenshots/DashBoard.gif" width="400"> </p> |
 | <p align="center">[Darkstore Market](https://github.com/artemrudman/Darkstore_market) <br> <img src="screenshots/DashBoard.gif" width="400"></p>| <p align="center">[Python Data Analisys](https://github.com/artemrudman/python_data_analysis) <br> <img src="screenshots/DashBoard.gif" width="400"> </p> |
 
   
