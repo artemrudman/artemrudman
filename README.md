@@ -4,6 +4,7 @@ My passion for continuous learning keeps me updated on industry trends, ensuring
 
 ## 📊 Portfolio
 
+|    |   |
 |----------|---------|
 | ![Excel EPL Analysis Project](https://github.com/artemrudman/Excel_Project_Liverpool) <br> <img src="screenshots/DashBoard.gif" width="400">| ![Excel EPL Analysis Project](https://github.com/artemrudman/Excel_Project_Liverpool) <br> <img src="screenshots/DashBoard.gif" width="400"> |
 | ![Excel EPL Analysis Project](https://github.com/artemrudman/Excel_Project_Liverpool) <br> <img src="screenshots/DashBoard.gif" width="400"> | ![Excel EPL Analysis Project](https://github.com/artemrudman/Excel_Project_Liverpool) <br> <img src="screenshots/DashBoard.gif" width="400"> |
