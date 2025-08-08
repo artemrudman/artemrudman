@@ -22,4 +22,4 @@ Bachelor's degree in Petroleum Engineering, Siberian Federal University
 
 
 ## 📫 Contact Me on Social Media
-[LinkedIn](https://www.linkedin.com/in/artem-rudman/) | [Facebook](https://www.facebook.com/profile.php?id=100077558021053) | [Email](rudmanartyom@gmail.com) | 💬 Issue Me about everything!
+[LinkedIn](https://www.linkedin.com/in/artem-rudman/) | [Facebook](https://www.facebook.com/profile.php?id=100077558021053) | [Email](rudmanartyom@gmail.com) | [Website](rudmanartyom@gmail.com) | 💬 Issue Me about everything!
