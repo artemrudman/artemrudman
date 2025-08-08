@@ -20,7 +20,6 @@ I,m a detail-oriented and reliable professional with over 5 years of experience 
 ## 🎓 Education
 Bachelor's degree in Petroleum Engineering, Siberian Federal University
 
-## 📧 Let's connect!
-[My LinkedIn](https://www.linkedin.com/in/artem-rudman/)🌍🚀
 
-Take a look at my projects here on GitHub. If you have any questions or would like to collaborate, please feel free to contact me!
+## 📫 Contact Me on Social Media
+[LinkedIn](https://www.linkedin.com/in/artem-rudman/) | [Facebook](https://www.facebook.com/profile.php?id=100077558021053) | [Email](rudmanartyom@gmail.com) | 💬 Issue Me about everything!
