@@ -1,6 +1,6 @@
 ## Welcome to my GitHub!  
-I,m an Engineer with experience in Data Analisys and Development. I'm a detail-oriented professional, committed to learning and using new technologies to create innovative solutions. 
-My passion for continuous learning keeps me updated on industry trends, ensuring I deliver excellent results.
+I,m a detail-oriented and reliable professional with over 5 years of experience in data interpretation, equipment analytics, and quality assurance in the oil & gas industry. Proven ability to work in fast-paced environments with strong attention to detail. Committed to learning and using new technologies to create innovative solutions. 
+
 
 ## 📊 Portfolio
 
@@ -18,7 +18,7 @@ My passion for continuous learning keeps me updated on industry trends, ensuring
 - Data Wrangling: data cleaning, data transformation, data integration
 
 ## 🎓 Education
-Bachelor's degree in Oil and Gas engineering, Siberian Federal University
+Bachelor's degree in Petroleum Engineering, Siberian Federal University
 
 ## 📧 Let's connect!
 [My LinkedIn](https://www.linkedin.com/in/artem-rudman/)🌍🚀
