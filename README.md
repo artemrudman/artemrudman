@@ -1,5 +1,5 @@
-## Welcome to my GitHub!  
-I,m a detail-oriented and reliable professional with over 5 years of experience in data interpretation, equipment analytics, and quality assurance in the oil & gas industry. Proven ability to work in fast-paced environments with strong attention to detail. Committed to learning and using new technologies to create innovative solutions. 
+## Hi there 👋 I'm Artyom, an Engineer & Data Analyst
+I,m a detail-oriented and reliable professional with over 5 years of experience in data interpretation, equipment analytics, and quality assurance in the oil & gas industry. Proven ability to work in fast-paced environments with strong attention to detail. Committed to learning and using new technologies to create innovative solutions. I'm curious about AI tools, forecasting and predictions models.
 
 
 ## 📊 Portfolio
