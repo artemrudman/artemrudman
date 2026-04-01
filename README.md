@@ -6,9 +6,9 @@ I,m a detail-oriented and reliable professional with over 5 years of experience 
 
 |    |    |
 |----------|---------|
-| <p align="center">[SocialEdge - Grow your LinkedIn](https://github.com/artemrudman/socialedge) <br><br> <img src="screenshots/SE_gif.gif" width="150"></p>| <p align="center">[Darkstore Market](https://github.com/artemrudman/Darkstore_market) <br><br> <img src="screenshots/2.gif" width="350"></p> |
-| <p align="center">[Excel EPL Analysis Project](https://github.com/artemrudman/Excel_Project_Liverpool) <br><br> <img src="screenshots/DashBoard.gif" width="350"></p>| <p align="center">[Darkstore Market](https://github.com/artemrudman/Darkstore_market) <br><br> <img src="screenshots/2.gif" width="350"></p> |
-| <p align="center">[Demographic analysis with Python](https://github.com/artemrudman/python_data_analysis) <br><br> <img src="screenshots/python.gif" width="350" height="190"> </p>| <p align="center">[Web Servers Monitoring System](https://github.com/artemrudman/Webservers_Project/) <br><br> <img src="screenshots/raw_data.gif" width="350"> </p>|
+| <p align="center">[SocialEdge - Grow your LinkedIn](https://github.com/artemrudman/socialedge) <br><br> <img src="screenshots/SE_gif.gif" width="150"></p>| <p align="center">[Excel EPL Analysis Project](https://github.com/artemrudman/Excel_Project_Liverpool) <br><br> <img src="screenshots/DashBoard.gif" width="350"></p> |
+| <p align="center">[Web Servers Monitoring System](https://github.com/artemrudman/Webservers_Project/) <br><br> <img src="screenshots/raw_data.gif" width="350"> </p> | <p align="center">[Darkstore Market](https://github.com/artemrudman/Darkstore_market) <br><br> <img src="screenshots/2.gif" width="350"></p> |
+
 
   
 ## 💻 Technical skills
