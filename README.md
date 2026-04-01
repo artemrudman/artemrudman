@@ -17,7 +17,7 @@ I,m a detail-oriented and reliable professional with over 5 years of experience 
 - Data Platforms: dbt, Snowflake, BigQuery, Google Cloud Platforms
 - Spreadsheets: Excel, Google Sheets
 - Data Visualization: Power BI, Tableau
-- Data Wrangling: data cleaning, data transformation, data integration
+- Data Wrangling: data cleaning, data transformation, data integration, A/B Testing
 
 ## 🎓 Education
 Bachelor's degree in Petroleum Engineering, Siberian Federal University
