@@ -12,10 +12,11 @@ I,m a detail-oriented and reliable professional with over 5 years of experience 
 
   
 ## 💻 Technical skills
-- Languages: SQL, Python, JS, TS
+- Languages: SQL, Python(NumPy, Pandas, Matplotlib), JS, TS
 - Databases: Microsoft SQL Server, MySQL, PostgreSQL
+- Data Platforms: dbt, Snowflake, BigQuery, Google Cloud Platforms
 - Spreadsheets: Excel, Google Sheets
-- Data Visualization: Power BI
+- Data Visualization: Power BI, Tableau
 - Data Wrangling: data cleaning, data transformation, data integration
 
 ## 🎓 Education
